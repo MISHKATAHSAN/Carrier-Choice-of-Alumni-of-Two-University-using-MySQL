@@ -61,7 +61,7 @@ The dataset consists of six CSV files, each containing records of alumni from Co
 16.	Percentage Calculation: Calculate the percentage of career choices (Higher Studies, Self Employed, Service/Job) for College A and College B alumni.
 
     
-**How to Run the Project**
+# **How to Run the Project**
 
 
 1.	Database Setup: Create a MySQL database and schema named alumni.
