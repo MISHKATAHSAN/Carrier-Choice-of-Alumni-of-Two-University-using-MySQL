@@ -3,6 +3,8 @@
 
 # Alumni Career Analysis using MySQL
 
+Google Drive Link :- https://drive.google.com/drive/folders/1dPc8VxO22PkWRMzOT6YoUFt2Gj8myzyg
+
 **Introduction**
 
 This project focuses on analyzing the career choices of alumni from two universities, College A and College B. Understanding the career paths of alumni is crucial for evaluating the success and impact of the institutions. By analyzing data related to alumni career choices, we aim to gain insights into trends, preferences, and patterns that can inform decision-making and strategic initiatives.
