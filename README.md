@@ -1,4 +1,4 @@
-# Carrier-Choice-of-Alumni-of-Two-University-using-MySQL
+# Alumni-Carrier-Choice-of-of-Two-University-using-MySQL
 
 
 # Alumni Career Analysis using MySQL
